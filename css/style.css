@@ -14,6 +14,6 @@ body, html {
 .bgimg-1 {
     background-position: center;
     background-size: cover;
-    background-image: url('https://raw.githubusercontent.com/gautham-g-nayak/portfolio/master/images/background.png');
+    background-image: url(https://raw.githubusercontent.com/gautham-g-nayak/portfolio/master/images/background.png);
     min-height: 100%;
 }
