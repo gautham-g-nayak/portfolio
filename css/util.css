@@ -1,6 +1,6 @@
 .bgimg-1 {
     background-position: center;
     background-size: cover;
-    background-image: url(/images/background.jfif);
+    background-image: url(https://raw.githubusercontent.com/gautham-g-nayak/portfolio/master/images/background.png);
     min-height: 100%;
   }
