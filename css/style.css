@@ -15,5 +15,6 @@ body, html {
     background-position: center;
     background-size: cover;
     background-image: url("/images/background.png");
+    background-repeat: no-repeat;
     min-height: 100%;
 }
